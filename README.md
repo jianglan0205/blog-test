@@ -4,7 +4,7 @@
 `alert("鸡你太美")`
 
 多行代码
-```
+```javascript
     function jntm(){
         var a = "鸡" ;
         var b = "你" ;
